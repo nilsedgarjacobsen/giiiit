@@ -7,5 +7,6 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         System.out.println("Nu har jag en scanner");
         System.out.println("Nu är detta i Nils-branchen");
+        System.out.println("Sista ändringen i nils");
     }
 }
