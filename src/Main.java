@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello world!");
         Scanner scan = new Scanner(System.in);
         System.out.println("Nu har jag en scanner");
+        System.out.println("Nu är detta i Nils-branchen");
     }
 }
